@@ -18,10 +18,12 @@ Additionally, we would like to thank our fellow classmates for their support, fe
 
 - [Description](#description)
 - [Features](#features)
-- [Installation](#installation)
+- [Deployment](#Deployment)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)## Description
+- [Authors](#Authors)
+
+## Description
 
 The Economy-Finances website is a simple, static website built using HTML, CSS, and JavaScript. It aims to provide users with a user-friendly interface to explore different financial services offered by the fictional company "Economy-Finances." This project was developed as part of the Software Development Lifecycle course at ISMT College.
 
@@ -35,6 +37,13 @@ The Economy-Finances website is a simple, static website built using HTML, CSS, 
 - Login page (functionality not implemented)
 
 ## Screenshots
+![image](https://github.com/prabinpanta0/Economy-Finances-Website/assets/87630026/1d76cffd-ad7f-412e-922f-4960fa352141)
+![image](https://github.com/prabinpanta0/Economy-Finances-Website/assets/87630026/50a551c6-8c38-481c-8408-d21059270041)
+![image](https://github.com/prabinpanta0/Economy-Finances-Website/assets/87630026/dbecd3d5-312e-4356-9f24-ac561acdefb5)
+![image](https://github.com/prabinpanta0/Economy-Finances-Website/assets/87630026/b4437b93-2716-40ec-8636-e641163ad550)
+![image](https://github.com/prabinpanta0/Economy-Finances-Website/assets/87630026/e63457e7-8ee3-4d6f-9dbd-52b79fd0da51)
+![image](https://github.com/prabinpanta0/Economy-Finances-Website/assets/87630026/c6fc7125-0f30-4abd-be70-d4062576ae53)
+
 
 
 ## Deployment
